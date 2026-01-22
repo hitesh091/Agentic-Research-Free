@@ -12,6 +12,11 @@ A curated collection of cutting-edge research papers on agentic AI, multi-agent 
 | 3 | SimpleMem: Efficient Lifelong Memory for LLM Agents | [2601.02553](https://arxiv.org/pdf/2601.02553) | Memory Systems | 📌 Active |
 | 4 | The Path Ahead for Agentic AI: Challenges and Opportunities | [2601.02749](https://arxiv.org/pdf/2601.02749) | Future Directions | 📌 Active |
 | 5 | A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting | [2601.05039](https://www.arxiv.org/pdf/2601.05039) | Live market forecasting | 📌 Active |
+| 6 | A Comprehensive Survey of Architectures, Applications, and Future Directions | [2510.25445](https://arxiv.org/pdf/2510.25445) | Agentic AI | 📌 Active |
+| 7 | EMPIRICAL EVALUATION AND INSIGHTS INTO EMERGING DESIGN PATTERNS & PARADIGMS | [2601.03328](https://arxiv.org/pdf/2601.03328) | LLM-ENABLED MULTI-AGENT SYSTEMS | 📌 Active |
+| 8 | Back to the Future | [2512.24856](https://arxiv.org/pdf/2512.24856) | Advances in Agentic AI | 📌 Active |
+| 9 | Examining LLM Reasoning Capability for Time Interval Prediction | [2601.10132v1](https://arxiv.org/pdf/2601.10132v1) | Is More Context Always Better?  | 📌 Active |
+| 10 | Benchmarking LLM Agents for Long-Document Data Analysis | [2601.02598](https://arxiv.org/pdf/2601.02598) | LongDA | 📌 Active |
 
 ---
 
