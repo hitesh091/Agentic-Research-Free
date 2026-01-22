@@ -8,9 +8,10 @@ A curated collection of cutting-edge research papers on agentic AI, multi-agent 
 | # | Title | ArXiv ID | Focus Area | Status |
 |---|-------|----------|-----------|--------|
 | 1 | MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability | [2601.00481](https://arxiv.org/pdf/2601.00481) | Evaluation & Testing | 📌 Active |
-| 2 | Orchestral AI: A Framework for Agent Orchestration | [2601.02577](https://arxiv.org/pdf/2601.02577) | Multi-Agent Systems | 📌 Active |
+| 2 | Distinguishing Autonomous AI Agents from Collaborative Agentic Systems | [2506.01438v1](https://arxiv.org/pdf/2506.01438v1) | A Comprehensive Framework for Understanding Modern Intelligent Architectures | 📌 Active |
 | 3 | SimpleMem: Efficient Lifelong Memory for LLM Agents | [2601.02553](https://arxiv.org/pdf/2601.02553) | Memory Systems | 📌 Active |
 | 4 | The Path Ahead for Agentic AI: Challenges and Opportunities | [2601.02749](https://arxiv.org/pdf/2601.02749) | Future Directions | 📌 Active |
+| 5 | A Live Multi-Agent System for Benchmarking Deep Research Agents in Financial Forecasting | [2601.05039](https://www.arxiv.org/pdf/2601.05039) | Live market forecasting | 📌 Active |
 
 ---
 
