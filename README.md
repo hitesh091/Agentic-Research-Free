@@ -55,6 +55,7 @@ Key Research Question: What are the critical technical and deployment challenges
 
 ### Archive
 https://hireagentic.dev/blog/langgraph-tutorial-human-in-the-loop
+https://hireagentic.dev/blog/ai-agent-examples-use-cases
 ---
 
 ## 💡 Contributing
