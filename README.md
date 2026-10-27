@@ -52,6 +52,9 @@ Key Research Question: How can we implement efficient, scalable memory systems f
 
 Key Research Question: What are the critical technical and deployment challenges for agentic AI systems?
 
+
+### Archive
+https://hireagentic.dev/blog/langgraph-tutorial-human-in-the-loop
 ---
 
 ## 💡 Contributing
